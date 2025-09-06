@@ -1,6 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m currently learning CSS & JavaScript.
-### 👯 I’m looking to collaborate on Frontend Projects.
+
 <!--
 **Baasim10/Baasim10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
